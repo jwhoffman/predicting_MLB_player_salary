@@ -1,3 +1,3 @@
-# Springboard - Data Science Career Track
+# Springboard - Capstone 1 - Predicting Baseball Salaries
 
-A repository for python code.
+
