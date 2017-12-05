@@ -1,3 +1,3 @@
-# Springboard - Capstone 1 - Predicting Baseball Salaries
+# Predicting Baseball Salaries
 
 
